@@ -1,0 +1,14 @@
+{
+  "wd": {
+    "name":"Wingdings",
+    "author":"Owlsss",
+    "description":"Wingdings characters",
+    "reigion":"us"
+  },
+  "sn": {
+    "name":"String names",
+    "author":"",
+    "description":"Empty language file that forces all of the strings to display as their name.",
+    "reigion":"us"
+  }
+}
